@@ -23,5 +23,6 @@ int main(void)
         printf("%d ", numbers[i]);
     }
 
+
     return 0;
 }
